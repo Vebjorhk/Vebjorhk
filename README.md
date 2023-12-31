@@ -13,8 +13,6 @@ Studying language technology at the university of Oslo
 <img align="left" alt="blender" width=30px style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 <br/>
 <br/>
-
-![linux-homer](https://github.com/Vebjorhk/Vebjorhk/assets/77414086/e8397900-2bab-4ed9-97e4-93afc53974ab)
           
           
           
